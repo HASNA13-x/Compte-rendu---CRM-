@@ -50,5 +50,3 @@ Ce projet présente une analyse du rôle du Customer Relationship Management (CR
 - WMtips
 - InovTeam
 
-
-Tu peux copier ce texte dans un fichier nommé **README.md** à la racine de ton dépôt GitHub.
